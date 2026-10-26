@@ -1,0 +1,46 @@
+cv:
+  name: Jian Lee
+  label: Research Intern, AIGENDRUG
+  email: jianlee@aigendrug.com
+  location: Seoul, South Korea
+  image: ""
+  summary: Research intern at AIGENDRUG working on generative models for small molecules and antibodies, with the goal of advancing generative modeling as a bridge connecting chemistry and biology.
+
+  social_networks:
+    - network: GitHub
+      username: GianniLee
+    - network: LinkedIn
+      username: jian-lee-866611297
+
+  sections:
+    Education:
+      - institution: KAIST (Korea Advanced Institute of Science and Technology)
+        location: Daejeon, South Korea
+        area: Computer Science
+        studyType: B.S.
+        highlights: []
+
+    Experience:
+      - company: AIGENDRUG
+        position: Research Intern
+        location: Seoul, South Korea
+        start_date: 2026-03
+        summary: Leading research on generative models for small molecules and antibodies.
+
+      - company: IC Lab, KAIST
+        position: Undergraduate Researcher — Human-Computer Interaction
+        location: Daejeon, South Korea
+        start_date: 2025-07
+        end_date: 2025-12
+        summary: Designed a modular framework for mental health AI agents.
+
+      - company: Bookend Inc.
+        position: Research Intern — Large Language Models
+        location: South Korea
+        start_date: 2024-06
+        end_date: 2024-08
+        summary: Studied evaluation metrics for a Korean LLM paraphrasing service.
+
+    Interests:
+      - name: Research
+        keywords: "Small-molecule generation, Antibody-antigen binding affinity prediction, Single-cell transcriptomics, Spatial transcriptomics"
